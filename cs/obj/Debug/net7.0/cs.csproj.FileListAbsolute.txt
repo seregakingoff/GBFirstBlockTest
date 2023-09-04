@@ -1,0 +1,15 @@
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/bin/Debug/net7.0/cs
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/bin/Debug/net7.0/cs.deps.json
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/bin/Debug/net7.0/cs.runtimeconfig.json
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/bin/Debug/net7.0/cs.dll
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/bin/Debug/net7.0/cs.pdb
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/obj/Debug/net7.0/cs.csproj.AssemblyReference.cache
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/obj/Debug/net7.0/cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/obj/Debug/net7.0/cs.AssemblyInfoInputs.cache
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/obj/Debug/net7.0/cs.AssemblyInfo.cs
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/obj/Debug/net7.0/cs.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/obj/Debug/net7.0/cs.dll
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/obj/Debug/net7.0/refint/cs.dll
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/obj/Debug/net7.0/cs.pdb
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/obj/Debug/net7.0/cs.genruntimeconfig.cache
+/Users/alex/Documents/sergey/GBTestFirstBlock/cs/obj/Debug/net7.0/ref/cs.dll
